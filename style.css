@@ -1,3 +1,9 @@
+.bg-img{
+  background-image: url('img/433439649_18260102506227988_3861535304729839491_n.jpg');
+  background-size: cover;
+  height: 100vh;
+  background-position: center;
+}
 @media screen and (max-width: 700px) {
     .depcard{
         border-radius: 15px;
@@ -5,7 +11,7 @@
         margin-top: 50px !important;
       }
       .btnmain{
-        border-radius: 70px;
+        border-radius: 100px;
         outline: none;
         border: none;
     
