@@ -1,5 +1,5 @@
 .bg-img{
-  background-image: url('img/name1.jpg');
+  background-image: url('img/1.jpg');
   background-size: cover;
   height: 100vh;
   background-position: center;
@@ -9,6 +9,7 @@
         border-radius: 15px;
         height: 350px;
         margin-top: 50px !important;
+        text-align: center;
       }
       .btnmain{
         border-radius: 100px;
@@ -18,8 +19,8 @@
       }
       .btnmain2{
         border-radius: 700px;
-        height: 100px;
-        width: 100px;
+        height: 150px;
+        width: 150px;
       }
       .h3a{
         font-size: small;
